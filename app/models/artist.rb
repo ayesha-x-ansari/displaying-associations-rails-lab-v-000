@@ -5,4 +5,3 @@ class Artist < ActiveRecord::Base
     self.songs.size
   end
 end
-
